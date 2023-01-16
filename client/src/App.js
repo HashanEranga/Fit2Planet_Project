@@ -1,4 +1,4 @@
-import './App.css';
+import './Assets/Styles/App.css';
 import {BrowseRouter, Routes, Route, Link} from 'react-router-dom'
 
 function App() {
